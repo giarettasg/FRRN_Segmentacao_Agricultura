@@ -22,8 +22,9 @@ O projeto tem as seguintes dependências:
 ## Resultados
 -Treinamento
 
-![alt-text-10](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/ErrovsEpocas.png)
-![alt-text-5](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/Evolucao.png)
+![alt text-1](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/ErrovsEpocas.png) |  ![alt text-2](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/Evolucao.png)
+
+
 
 
 
