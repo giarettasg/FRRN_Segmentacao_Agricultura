@@ -26,3 +26,8 @@ Erro vs Epocas            |  Evolução
 :-------------------------:|:-------------------------:
 ![alt text-1](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/ErrovsEpocas.png)  |  ![alt text-2](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/Evolucao.png)
 
+-Teste
+
+Original            |  Base   |  Predição
+:-------------------------:|:-------------------------:|:-------------------------:
+![alt-text-3](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/001_image.png "Original")  |  ![alt-text-4](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/001_image_gt.png "Base")  |   ![alt-text-5](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/001_image_pred.png "Predição")
