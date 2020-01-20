@@ -21,7 +21,7 @@ O projeto tem as seguintes dependências:
 
 ## Resultados
 
-
+![alt-text-10](https://github.com/giarettasg/FRRN_Segmentacao_Agricultura/blob/master/Resultados/ErrovsEpocas.png)
 
 
 
