@@ -3,7 +3,7 @@
 ## Descrição
 Este reporisório consiste nos códigos utilizados para a implementação de uma rede neural convolucional, utilizado para a identificação de ervas daninhas por meio da segmentação semântica. 
 
-O repositório apresenta a implementação da arquitetura de rede - [Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes](https://arxiv.org/abs/1611.08323), baseado no repositório : https://github.com/GeorgeSeif/Semantic-Segmentation-Suiteis
+O repositório apresenta a implementação da arquitetura de rede - [Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes](https://arxiv.org/abs/1611.08323) baseado no repositório : https://github.com/GeorgeSeif/Semantic-Segmentation-Suite.
 
 Também foi adicionado o arquivo do Jupyter Notebook "Segmentacao_Semantica.ipynb" com os códigos em alto nível para o treinamento, teste e predição utilizando a interface do Google Colab.
 
